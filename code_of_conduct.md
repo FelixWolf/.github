@@ -26,7 +26,7 @@ Because github keeps nagging me to add one.
 # Enforcement
 In the interest of transparency, all reports and outcomes are public.
 This includes:
-* The original report.
+* The original report. (Reporter name may in certain cases)
 * Parties involved.
 * Party or parties handling the issue.
 * Considerations and discussions made by the parties handling the issue.
