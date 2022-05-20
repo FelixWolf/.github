@@ -1,8 +1,8 @@
 # Why?
 Projects add these for some reason and github wants me to add one. Maybe we have entered a era where people simply don't know how to behave and need a document to tell them how to do so, or maybe there is another reason, I don't know. <br/> <br/>
 I am aware many people don't like code of conducts for one reason or another, so I wrote this one from scratch in hopes to solves the issues that other code of conducts have, and I want to make two things clear:
-* **I do not want** this code of conduct to be seen as a document to fear, as that defeats the whole purpose of making my own, so please see the [Reporting, questions/concerns/comments/suggestions, etc](#reporting-questionsconcernscommentssuggestions-etc) section if you wish to ask anything about it, I guarentee you that you will not see any reprocussions about asking questions regardless of how weird, or "unacceptable" you may think people will see your question. <br/> <br/>
-* **I do want** to make sure *everyone* is able to have a good time and feel welcome when interacting with my projects, regardless of who you are as a person outside of the projects.
+* _**I do not want**_ this code of conduct to be seen as a document to fear, as that defeats the whole purpose of making my own, so please see the [Reporting, questions/concerns/comments/suggestions, etc](#reporting-questionsconcernscommentssuggestions-etc) section if you wish to ask anything about it, I guarentee you that you will not see any reprocussions about asking questions regardless of how weird, or "unacceptable" you may think people will see your question. <br/> <br/>
+* _**I do want**_ to make sure that __*everyone*__ is able to have a good time and feel welcome when interacting with my projects, regardless of who you are as a person outside of the projects.
 
 # Scope
 ### This Code of Conduct is only enforcable for the following:
