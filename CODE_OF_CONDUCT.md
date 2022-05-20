@@ -4,7 +4,7 @@
 2. When you are representing the project. (I.E. Stating "I am a X developer" in a discussion, only applies for that discussion)
 
 ### What this does not cover:
-1. Unrelated off-site interactions.
+1. Unrelated off-project interactions.
 2. Issues that happened on other projects.
 3. Having "X developer" in your bio or profile.
 
