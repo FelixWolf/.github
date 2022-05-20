@@ -1,5 +1,3 @@
-Because github keeps nagging me to add one.
-
 # Scope
 ### This Code of Conduct is only enforcable for the following:
 1. Interactions on official project pages. (Git repos, issues, commits, IRC, etc)
