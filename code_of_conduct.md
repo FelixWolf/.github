@@ -1,11 +1,11 @@
 Because github keeps nagging me to add one.
 
 # Scope
-This Code of Conduct is only enforcable for the following:
+### This Code of Conduct is only enforcable for the following:
 1. Interactions on official project pages. (Git repos, issues, commits, etc)
 2. When you are representing the project. (I.E. Stating "I am a X developer" in a discussion, only applies for that discussion)
 
-# What this does not cover:
+### What this does not cover:
 1. Unrelated off-site interactions.
 2. Issues that happened on other projects.
 3. Having "X developer" in your bio or profile.
