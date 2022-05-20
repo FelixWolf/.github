@@ -33,6 +33,8 @@ This includes:
 * All investigative information, including all parties' sides of the issue.
 * Outcome of the issue, including action taken, ban duration(if applicable), and/or warnings issued.
 
+Public commentarys is welcome, however users are expected to remain civil when commenting on these issues.
+
 Exception to this is in the event that the issue in scenarios where the evidence may be deleted during investigation, or if law enforcement is involved.
 These reports will be publishized after the issue has been handled.
 
