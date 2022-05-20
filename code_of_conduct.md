@@ -33,5 +33,8 @@ This includes:
 * All investigative information, including all parties' sides of the issue.
 * Outcome of the issue, including action taken, ban duration(if applicable), and/or warnings issued.
 
+Exception to this is in the event that the issue is particularly sensitive and the reported party may DFA(including evidence), or law enforcement is involved.
+These reports will be publishized after the issue has been handled.
+
 # Reporting, comments/suggestions, etc:
 Please open a issue here: https://github.com/FelixWolf/.github/issues
