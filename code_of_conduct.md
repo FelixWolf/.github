@@ -24,7 +24,7 @@ Because github keeps nagging me to add one.
 2. Have fun.
 
 # Enforcement
-In the interest of transparency, all reports and outcomes are public.
+In the interest of transparency, all reports(both pending and handled) and outcomes are public.
 This includes:
 * The original report. (Reporter name may in certain cases)
 * Parties involved.
@@ -33,7 +33,7 @@ This includes:
 * All investigative information, including all parties' sides of the issue.
 * Outcome of the issue, including action taken, ban duration(if applicable), and/or warnings issued.
 
-Exception to this is in the event that the issue is particularly sensitive and the reported party may DFA(including evidence), or law enforcement is involved.
+Exception to this is in the event that the issue in scenarios where the evidence may be deleted during investigation, or if law enforcement is involved.
 These reports will be publishized after the issue has been handled.
 
 # Reporting, comments/suggestions, etc:
