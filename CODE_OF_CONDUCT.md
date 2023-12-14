@@ -1,7 +1,8 @@
 # Why?
 Projects add these for some reason and github wants me to add one. Maybe we have entered a era where people simply don't know how to behave and need a document to tell them how to do so, or maybe there is another reason, I don't know. <br/> <br/>
-I am aware many people don't like code of conducts for one reason or another, so I wrote this one from scratch in hopes to solves the issues that other code of conducts have, and I want to make two things clear:
+As someone with autism, most code of conducts give me a uneasy feeling and makes me fear them, rather than feeling safe. I am also aware many people don't like code of conducts for one reason or another. So I wrote this one from scratch in hopes to solves the issues that other code of conducts have, and I want to make three things clear:
 * _**I do not want**_ this code of conduct to be seen as a document to fear, as that defeats the whole purpose of making my own, so please see the [Reporting, questions/concerns/comments/suggestions, etc](#reporting-questionsconcernscommentssuggestions-etc) section if you wish to ask anything about it, I will personally guarentee and see to it that you will not see any reprocussions about asking questions regardless of how weird, or "unacceptable" you may think people will see your question. <br/> <br/>
+* _**I do not want**_ this code of conduct to be used as a weapon. It is designed to keep people safe and the community welcoming, and made to ensure people don't use it as a method of removing people they don't like. <br/> <br/>
 * _**I do want**_ to make sure that __*everyone*__ is able to have a good time and feel welcome when interacting with my projects, regardless of who you are as a person outside of the projects.
 
 # Scope
@@ -17,16 +18,16 @@ I am aware many people don't like code of conducts for one reason or another, so
 
 # Guidelines
 1. Remember the human.
-2. Don't spam.
-3. Don't go out of your way to make yourself a problem for others.
-4. Don't abuse powers that you may have.
-5. Don't publish information about people that they haven't published themselves.
-6. The code of conduct is not a weapon, don't use it as such.
-7. Do your best.
+2. Don't go out of your way to make yourself a problem for others.
+3. Don't abuse powers (Administrative, moderation, etc) that you may have.
+4. Don't publish information about people that they haven't published themselves.
+5. The code of conduct is not a weapon, don't use it as such.
+6. Don't spam.
 
 # Recommendations
 1. Share knowledge, don't force it. (I.E. Recommend a specific method, don't demand people to use it)
 2. Have fun.
+3. Do your best.
 
 # Disagreements
 We are human, as such disagreements *will* happen. Normally this is a good thing as it allows one and other to exchange ideas and views, however if a disagreement over something begins to get heated, please consider:
@@ -35,21 +36,29 @@ We are human, as such disagreements *will* happen. Normally this is a good thing
 3. Contacting or mentioning a moderator(@ notifying, not threatening the other party) to step in and de-escelate an issue before it becomes an issue that the code of conduct has to handle.
 
 # Enforcement
-In the interest of transparency, all reports(both pending and handled) and outcomes are public.
+In the interest of transparency, all reports (both pending and handled) and outcomes are public.
 This includes:
-* The original report. (Reporter name may omitted in certain cases)
+* The original report. (Reporter name will be omitted except in cases of frivolous reports)
 * Parties involved.
 * Party or parties handling the issue.
 * Considerations and discussions made by the parties handling the issue.
 * All investigative information, including all parties' sides of the issue.
 * Outcome of the issue, including action taken, ban duration(if applicable), and/or warnings issued.
 
+This is done to ensure the community that enforcement is dealt with in a impartial manner, and to allow whistleblowing on abusive moderator actions.
+
 ### Transparency exception
-Exception to this is in the event that the issue in scenarios where the evidence may be deleted during investigation, or if law enforcement is involved.
-These reports will be publishized after the issue has been handled.
+Exceptions to the above transparent policy may be made in the following cases:
+* Life and/or death scenarios.
+* Issues where the reporter or involved parties may be in danger.
+* Issues where investigation is needed and there is worry of destruction of evidence.
+* Issues where law enforcement is or will be involved.
+
+Once the issue is dealt with, the report *MAY* be published depending on legal obligations and/or the safety of a person(s).
 
 ### Public comments
-Public commentarys is welcome, however users are expected to remain civil when commenting on these issues.
+Public commentary and feedback is welcome, however users are expected to remain civil when commenting on these issues.<br/>
+Commentary is not to be used to "mini-mod" on-going issues. Attempting to "mini-mod" may result in sanctions disallowing further commentary on issues.
 
 ### Elevation of action
 Most issues will follow a `Formal Warning > Final Warning > Suspension (7 day) > Suspension (30 day) > Banishment` elevation tree.
@@ -73,7 +82,7 @@ In instances where the user is permanently banned or is unable to file appeal, t
 
 ### Moderator agreement
 * Moderators must not underestimate the impact of their actions and it's impact on the community. We don't want to discourage people from contributing.
-* Moderators must set aside all biases, be it political, their relationship with a user, or otherwise.
+* Moderators must set aside all biases, be it political, their relationship with a user, or otherwise. If unable to do so, the issue must be passed to a moderator who can do so.
 * Moderators are forbidden with dealing with issues that involve themselves or their friends.
 * Moderators must use their powers to create a positive environment, not a fearful one.
 
