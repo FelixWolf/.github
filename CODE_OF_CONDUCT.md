@@ -1,5 +1,4 @@
-# Why?
-Projects add these for some reason and github wants me to add one. Maybe we have entered a era where people simply don't know how to behave and need a document to tell them how to do so, or maybe there is another reason, I don't know. <br/> <br/>
+# Fore-notes
 As someone with autism, most code of conducts give me a uneasy feeling and makes me fear them, rather than feeling safe. I am also aware many people don't like code of conducts for one reason or another. So I wrote this one from scratch in hopes to solves the issues that other code of conducts have, and I want to make three things clear:
 * _**I do not want**_ this code of conduct to be seen as a document to fear, as that defeats the whole purpose of making my own, so please see the [Reporting, questions/concerns/comments/suggestions, etc](#reporting-questionsconcernscommentssuggestions-etc) section if you wish to ask anything about it, I will personally guarentee and see to it that you will not see any reprocussions about asking questions regardless of how weird, or "unacceptable" you may think people will see your question. <br/> <br/>
 * _**I do not want**_ this code of conduct to be used as a weapon. It is designed to keep people safe and the community welcoming, and made to ensure people don't use it as a method of removing people they don't like. <br/> <br/>
